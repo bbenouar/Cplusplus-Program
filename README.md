@@ -13,3 +13,6 @@ The use of vectors in this project also played a crucial role. Vectors, as dynam
 5.	How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable? 
 	This project helped me promote good programming practices. By applying code modularity and breaking down tasks into functions, I was able to make the code more readable and maintainable. The use of vectors enhanced data management, and provided a flexible way to handle collections of course objects. Additionally, handling user input and potential errors helped me write robust and user-friendly code.
 In summary, this project boosts my software development skills by highlighting the importance of structured data, modularity, user interaction, and good coding practices to create programs that are easy to maintain, read, and adapt.
+
+
+THIS SECTION FOR THE CS230 OPERATING PLATFORMS:
