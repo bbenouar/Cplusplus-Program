@@ -7,6 +7,7 @@
 #include <string>
 #include <regex> // Add this line to include the <regex> header
 
+//colors
 const std::string RED_COLOR = "\033[1;31m";
 const std::string GREEN_COLOR = "\033[1;32m";
 const std::string YELLOW_COLOR = "\033[1;33m";
