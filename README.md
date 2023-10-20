@@ -16,3 +16,16 @@ In summary, this project boosts my software development skills by highlighting t
 
 
 THIS SECTION FOR THE CS230 OPERATING PLATFORMS:
+The Gaming Room client, wants to develop a software application called, "Draw It or Lose It," which is a game application. The primary software requirements included memory management, storage management, network communication, and security measures to ensure a smooth and secure user experience.
+
+In developing this documentation, I particularly excelled in providing clear and detailed explanations of various technical aspects, including memory management, storage, security, and distributed systems. I also effectively conveyed the importance of considering the user's needs in the design process.
+
+The process of working through a design document was helpful when developing the code as it served as a roadmap for the project. It provided a clear structure and allowed for better planning and organization, ensuring that all important aspects of the software were addressed.
+
+If I could revise one part of my work on these documents, I would focus on improving the section regarding the specific software architecture and component design. Providing more detailed diagrams and architectural blueprints would enhance the document's clarity and help developers better understand the system's structure.
+
+Interpreting the user's needs was essential in designing the software because it ensured that the final product aligned with the client's vision and catered to the end-users' expectations. Understanding the user's needs is vital in creating software that is functional, user-friendly, and fulfills its intended purpose.
+
+In approaching software design, I used a combination of techniques, including specifying requirements, breaking down the system into components, addressing memory and storage management, and considering security measures. In the future, I would continue to follow these techniques while also giving more emphasis to user experience and feedback, conducting user testing, and keeping the software agile and adaptable to changing needs.
+
+Overall, a user-centric approach, clear documentation, and a methodical design process are essential for creating successful software applications. Considering the user's needs and feedback is crucial, and designing with scalability and security in mind ensures that the software remains effective and reliable in various environments.
